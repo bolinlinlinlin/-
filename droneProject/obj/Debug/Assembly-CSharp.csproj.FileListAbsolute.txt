@@ -1,0 +1,550 @@
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\mscorlib.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\netstandard.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.AppContext.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Collections.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Collections.Specialized.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.ComponentModel.Composition.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.ComponentModel.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Console.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Core.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Data.Common.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Data.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Drawing.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Globalization.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.IO.Compression.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.IO.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.IO.FileSystem.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.IO.Pipes.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Linq.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Linq.Expressions.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Linq.Parallel.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Linq.Queryable.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Net.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Net.Http.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Net.NameResolution.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Net.Ping.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Net.Primitives.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Net.Requests.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Net.Security.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Net.Sockets.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Net.WebSockets.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Numerics.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.ObjectModel.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Reflection.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Resources.Reader.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Resources.Writer.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Runtime.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Runtime.Handles.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Security.Claims.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Security.Principal.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Security.SecureString.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.ServiceModel.Web.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Text.Encoding.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Threading.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Threading.Tasks.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Threading.Thread.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Threading.Timer.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Transactions.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.ValueTuple.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Web.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Windows.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Xml.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Xml.Serialization.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Xml.XDocument.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Xml.XPath.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\Unity.Rider.Editor.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\Unity.Timeline.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\Unity.Timeline.Editor.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\Unity.VSCode.Editor.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEditor.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\Unity.CompilationPipeline.Common.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEditor.TestRunner.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEditor.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.SubsystemsModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.VFXModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\Unity.VSCode.Editor.pdb
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.UI.pdb
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\Unity.Timeline.pdb
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\Unity.Rider.Editor.pdb
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\Unity.TextMeshPro.pdb
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEditor.UI.pdb
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEditor.TestRunner.pdb
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\Temp\bin\Debug\UnityEngine.TestRunner.pdb
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\obj\Debug\Assembly-CSharp.dll
+C:\Users\kevin\Downloads\Telegram Desktop\20201101_mdr_2\2019_demo\obj\Debug\Assembly-CSharp.pdb
+D:\rightmilk\金大\三上\專題\專案們\20201209_rmk_4\2019_demo\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\rightmilk\金大\三上\專題\專案們\20201209_rmk_4\2019_demo\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\rightmilk\金大\三上\專題\專案們\20201209_rmk_4\2019_demo\obj\Debug\Assembly-CSharp.dll
+D:\rightmilk\金大\三上\專題\專案們\20201209_rmk_4\2019_demo\obj\Debug\Assembly-CSharp.pdb
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\Assembly-CSharp.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\mscorlib.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\netstandard.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.AppContext.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Collections.Concurrent.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Collections.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Collections.NonGeneric.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Collections.Specialized.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.ComponentModel.Composition.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.ComponentModel.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Console.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Core.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Data.Common.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Data.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Diagnostics.Debug.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Diagnostics.Process.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Diagnostics.Tools.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Drawing.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Drawing.Primitives.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Dynamic.Runtime.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Globalization.Calendars.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Globalization.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Globalization.Extensions.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.IO.Compression.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.IO.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.IO.FileSystem.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.IO.Pipes.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Linq.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Linq.Expressions.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Linq.Parallel.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Linq.Queryable.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Net.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Net.Http.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Net.NameResolution.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Net.NetworkInformation.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Net.Ping.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Net.Primitives.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Net.Requests.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Net.Security.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Net.Sockets.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Net.WebSockets.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Numerics.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Numerics.Vectors.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.ObjectModel.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Reflection.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Reflection.Extensions.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Reflection.Primitives.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Resources.Reader.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Resources.ResourceManager.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Resources.Writer.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Runtime.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Runtime.Extensions.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Runtime.Handles.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Runtime.InteropServices.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Runtime.Numerics.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Security.Claims.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Security.Principal.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Security.SecureString.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.ServiceModel.Web.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Text.Encoding.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Text.RegularExpressions.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Threading.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Threading.Overlapped.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Threading.Tasks.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Threading.Thread.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Threading.ThreadPool.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Threading.Timer.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Transactions.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.ValueTuple.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Web.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Windows.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Xml.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Xml.Linq.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Xml.Serialization.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Xml.XDocument.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Xml.XmlDocument.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Xml.XPath.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\Unity.2D.Sprite.Editor.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\Unity.Rider.Editor.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\Unity.Timeline.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\Unity.Timeline.Editor.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\Unity.VSCode.Editor.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEditor.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEditor.UI.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.SubsystemsModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.UI.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.VFXModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\Unity.CompilationPipeline.Common.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\Unity.Cecil.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\ExCSS.Unity.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEditor.TestRunner.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\Unity.CecilTools.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEditor.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.SubsystemsModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.VFXModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\Unity.VSCode.Editor.pdb
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.UI.pdb
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\Unity.Timeline.pdb
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\Unity.Rider.Editor.pdb
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\Unity.2D.Sprite.Editor.pdb
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\Unity.TextMeshPro.pdb
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEditor.UI.pdb
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEditor.TestRunner.pdb
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\Temp\bin\Debug\UnityEngine.TestRunner.pdb
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\obj\Debug\Assembly-CSharp.dll
+D:\rightmilk\金大\三上\專題\專案們\20201212_hao_1\droneProject\obj\Debug\Assembly-CSharp.pdb

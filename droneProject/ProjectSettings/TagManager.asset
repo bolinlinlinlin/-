@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - sound
+  - ring
+  - Drone
+  - NoTrigger
+  - OneM
+  - MainUI
+  - AppUI
+  - Spot
+  - End
+  - Plane
+  - VRDevices
+  - Button
+  - VRCamera
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - radar
+  - D
+  - Controller
+  - HUD
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: HUD
+    uniqueID: 1836646787
+    locked: 0
+  - name: End
+    uniqueID: 782638229
+    locked: 0
+  - name: UI
+    uniqueID: 225527681
+    locked: 0
+  - name: LoadLoading
+    uniqueID: 3385698605
+    locked: 0
